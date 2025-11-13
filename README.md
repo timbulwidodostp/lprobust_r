@@ -1,6 +1,8 @@
 # lprobust_r
 Partitioning-Based Least Squares Regression with Robust Inference Use lsprobust (lspartition) With (In) R Software
 
+https://www.youtube.com/watch?v=k25i9Aup3DM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
